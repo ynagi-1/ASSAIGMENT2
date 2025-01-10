@@ -12,7 +12,6 @@ public class Task2 {
                 }
             }
 
-            // Вывод значений массива (для проверки)
             System.out.print("index = 0");
             System.out.println(" value = " + strings[0]);
             System.out.print("index = 1");
